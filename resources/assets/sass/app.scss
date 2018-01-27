@@ -1,0 +1,16 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$primary: #000;
+
+body {
+    color: $primary;
+    font-family: 'BlinkMacSystemFont';
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
